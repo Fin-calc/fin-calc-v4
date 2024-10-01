@@ -53,6 +53,26 @@ label {
     font-weight: bold;
 }
 
+/* Кольорові фони для деяких чекбоксів */
+.highlight-blue {
+    background-color: #d0ebff;
+    padding: 2px 4px;
+    border-radius: 5px;
+}
+
+.highlight-red {
+    background-color: #ffd0d0;
+    padding: 2px 4px;
+    border-radius: 5px;
+}
+
+.highlight-yellow {
+    background-color: #fff3cd;
+    padding: 2px 4px;
+    border-radius: 5px;
+}
+
+
 /* Адаптивний дизайн для мобільних пристроїв */
 @media (max-width: 768px) {
     .columns {
